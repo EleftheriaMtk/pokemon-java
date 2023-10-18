@@ -1,5 +1,5 @@
 // Pokemon.java
-public class Pokemon {
+class Pokemon {
  private String type;
  private String name;
  private int damage;
